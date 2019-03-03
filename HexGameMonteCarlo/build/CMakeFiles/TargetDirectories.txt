@@ -1,4 +1,0 @@
-/home/thomas/Projects/HexGameMonteCarlo/build/CMakeFiles/rebuild_cache.dir
-/home/thomas/Projects/HexGameMonteCarlo/build/CMakeFiles/edit_cache.dir
-/home/thomas/Projects/HexGameMonteCarlo/build/CMakeFiles/Game.dir
-/home/thomas/Projects/HexGameMonteCarlo/build/CMakeFiles/Hex.dir
