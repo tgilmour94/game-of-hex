@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Hex.dir/src/main.cpp.o  -o Hex libGame.a -lpthread 

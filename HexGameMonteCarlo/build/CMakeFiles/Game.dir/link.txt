@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGame.a  CMakeFiles/Game.dir/src/UnionFind.cpp.o CMakeFiles/Game.dir/src/HexGameBoard.cpp.o CMakeFiles/Game.dir/src/HumanPlayer.cpp.o CMakeFiles/Game.dir/src/MCPlayer.cpp.o CMakeFiles/Game.dir/src/HexGame.cpp.o
+/usr/bin/ranlib libGame.a
